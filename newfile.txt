@@ -5,3 +5,6 @@ It allows developers to collaborate on a project more effectively by providing t
 GitHub allows developers to change, adapt and improve software from its public repositories for free, but it charges for private repositories, offering various paid plans.
 Each public or private repository contains all of a project's files, as well as each file's revision history. 
 Repositories can have multiple collaborators and can be either public or private. 
+
+we are working on branch Ashika
+GitHub allows multiple developers to work on a single project at the same time, reduces the risk of duplicative or conflicting work, and can help decrease production time. With GitHub, developers can build code, track changes, and innovate solutions to problems that might arise during the site development process simultaneously. Non-developers can also use it to create, edit, and update website content, which Carpenter demonstrates in her tutorial.
